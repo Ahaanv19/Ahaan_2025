@@ -16,15 +16,15 @@ permalink: /about/
 <img src="{{site.baseurl}}/images/IMG_9146.jpg" height="160">
 <img src="{{site.baseurl}}/images/india.png" height="60" title="Home" alt="">
 
-<h2>Comments</h2>
+
+
 <script src="https://utteranc.es/client.js"
-        repo="Av1922798/Ahaan_2025"
+        repo="[ENTER REPO HERE]"
         issue-term="pathname"
         theme="github-light"
         crossorigin="anonymous"
         async>
 </script>
-
 
 </body>
 </html>
