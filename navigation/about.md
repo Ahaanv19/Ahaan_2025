@@ -19,7 +19,7 @@ permalink: /about/
 
 
 <script src="https://utteranc.es/client.js"
-        repo="[ENTER REPO HERE]"
+        repo="[Ahaan_2025]"
         issue-term="pathname"
         theme="github-light"
         crossorigin="anonymous"
