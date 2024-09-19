@@ -16,16 +16,6 @@ permalink: /about/
 <img src="{{site.baseurl}}/images/IMG_9146.jpg" height="160">
 <img src="{{site.baseurl}}/images/india.png" height="60" title="Home" alt="">
 
-
-
-<script src="https://utteranc.es/client.js"
-        repo="[Ahaan_2025]"
-        issue-term="pathname"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script>
-
 </body>
 </html>
 
