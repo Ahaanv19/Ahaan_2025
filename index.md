@@ -241,7 +241,7 @@ hide: true
 <p1 style="font-size:70%; color: purple; font: bold 21px Open Sans;"> Welcome to my GitHub page for AP Computer Science Principals  &#128513;</p1>
 
 <!-- Adding an image using the <img> tag -->
-<img src="{{site.baseurl}}/images/Alaska.JPG" height="160">
+<img src="{{site.baseurl}}/images/welcome.png" height="160">
 
 
 
