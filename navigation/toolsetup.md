@@ -14,5 +14,7 @@ permalink: /toolsetup/
 
  
  <p style="font-size:90%; color: Blue; font: bold 18px Arial, sans-serif;">Week 3: This week after the first progress check review, we started working on adding Jupyter Notebooks and Javascript Games. The Javascript games were pretty easy to add I asked chat gpt for the codes, and I altred them to my likings. However, my Jupyter Notebooks was having an issue where it wasn't converting. I had to open my vs code from terminal instead of directly from my installement. This helped fix the problem. </p>
+
+ <p style="font-size:90%; color: Purple; font: bold 18px Arial, sans-serif;">Week 4: This week was the final week of working on Sprint 1. I used this week to refine my Github page, and complete my student self checklist, making sure all my hacks were installed correctly. I also added my utterances which took some time, but works perfectly now. </p>
 </body>
 </html>
