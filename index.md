@@ -241,6 +241,7 @@ hide: true
     <tr>
         <td><img src="{{site.baseurl}}/images/notebook.png" height="60" title="Home" alt=""></td>
         <td><a href="{{site.baseurl}}/lesson-sprinttwo/">Big Idea 3.1 Lesson</a></td>
+        <td><a href="{{site.baseurl}}/lesson-sprinttwo/">Big Idea 3.4 Lesson</a></td>
      
         
         
