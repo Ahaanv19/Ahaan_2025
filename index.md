@@ -207,7 +207,7 @@ hide: true
     </tr>
 
 </table>
-
+<p1 style="font-size:70%; color: purple; font: bold 14px Open Sans;">Here is my progress through game coding, click to see these online  &#128513;</p1>
 <table>
     <tr>
         <td><img src="{{site.baseurl}}/images/game.png" height="60" title="Home" alt=""></td>
@@ -222,7 +222,7 @@ hide: true
     </tr>
 
 </table>
-
+<p1 style="font-size:70%; color: purple; font: bold 14px Open Sans;"> This is my Jupyter Notebook Journey.  &#128513;</p1>
 <table>
     <tr>
         <td><img src="{{site.baseurl}}/images/notebook.png" height="60" title="Home" alt=""></td>
@@ -237,26 +237,16 @@ hide: true
 
 </table>
 
-<table>
-    <tr>
-        <td><img src="{{site.baseurl}}/images/notebook.png" height="60" title="Home" alt=""></td>
-        <td><a href="{{site.baseurl}}//bigidea-fundamentals-3-1//">Big Idea 3.1 Lesson</a></td>
-        <td><a href="{{site.baseurl}}//bigidea-fundamentals-3-4//">Big Idea 3.4 Lesson</a></td>
-     
-        
-        
-    </tr>
 
-</table>
 <h1 style="font-size:300%; color: Red; font: bold 50px Arial, sans-serif;"> Ahaan Vaidyanathan GitHub Page </h1>
 ----
 <div>
-<p1 style="font-size:70%; color: purple; font: bold 21px Open Sans;"> Welcome to my GitHub page for AP Computer Science Principals  &#128513;</p1>
+<p1 style="font-size:70%; color: purple; font: bold 21px Open Sans;"> Welcome to my GitHub page for AP Computer Science Principals. This is my coding Journey.  &#128513;</p1>
 
 <!-- Adding an image using the <img> tag -->
 <img src="{{site.baseurl}}/images/welcome.png" height="160">
 
-
+---
 
 
 
@@ -381,3 +371,119 @@ hide: true
      
 </div>
 ---
+
+<div>
+    <!-- notice how tags can be put INSIDE eachother -->
+    <p style=" color: Brown; font: bold 14px Open Sans;"> Click here to learn how to code! </p>
+      <a href="https://www.w3schools.com/" class="button-link">W3schools</a>
+
+<style>
+.button-link {
+    display: inline-block;
+    padding: 12px 24px;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    color: #fff;
+    background-color: #4CAF50;
+    border: none;
+    border-radius: 8px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.button-link:hover {
+    background-color: #45a049;
+    box-shadow: 0px 6px 8px rgba(0, 0, 0, 0.2);
+}
+
+.button-link:active {
+    background-color: #3e8e41;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+    transform: translateY(2px);
+}
+</style>
+</div>
+---
+---
+<!-- second information -->
+<div>
+    <!-- notice how tags can be put INSIDE eachother -->
+    <p style=" color: Brown; font: bold 14px Open Sans;"> Click here to view my Sprint 2 journey! </p>
+      <a href="https://nighthawkcoders.github.io/portfolio_2025/csp/big-idea/p3/3-1-0" class="button-link">Sprint 2 3.1</a>
+
+<style>
+.button-link {
+    display: inline-block;
+    padding: 12px 24px;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    color: #fff;
+    background-color: #4CAF50;
+    border: none;
+    border-radius: 8px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.button-link:hover {
+    background-color: #45a049;
+    box-shadow: 0px 6px 8px rgba(0, 0, 0, 0.2);
+}
+
+.button-link:active {
+    background-color: #3e8e41;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+    transform: translateY(2px);
+
+}
+
+</style>
+     
+</div>
+---
+---
+<!-- second information -->
+<div>
+    <!-- notice how tags can be put INSIDE eachother -->
+    <p style=" color: Brown; font: bold 14px Open Sans;"> Click here to view my Sprint 2 journey! </p>
+      <a href="https://nighthawkcoders.github.io/portfolio_2025/csp/big-idea/p3/3-4-0" class="button-link">Sprint 2 3.4</a>
+
+<style>
+.button-link {
+    display: inline-block;
+    padding: 12px 24px;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    color: #fff;
+    background-color: #4CAF50;
+    border: none;
+    border-radius: 8px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.button-link:hover {
+    background-color: #45a049;
+    box-shadow: 0px 6px 8px rgba(0, 0, 0, 0.2);
+}
+
+.button-link:active {
+    background-color: #3e8e41;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+    transform: translateY(2px);
+
+}
+
+</style>
+     
+</div>
+---
+
+
+
