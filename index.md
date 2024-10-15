@@ -406,11 +406,13 @@ hide: true
 </style>
 </div>
 ---
----
+
+
+<p style=" color: Brown; font: bold 14px Open Sans;"> Click here to view my Sprint 2 journey! </p>
+
 <!-- second information -->
 <div>
     <!-- notice how tags can be put INSIDE eachother -->
-    <p style=" color: Brown; font: bold 14px Open Sans;"> Click here to view my Sprint 2 journey! </p>
       <a href="https://nighthawkcoders.github.io/portfolio_2025/csp/big-idea/p3/3-1-0" class="button-link">Sprint 2 3.1</a>
 
 <style>
@@ -444,12 +446,12 @@ hide: true
 </style>
      
 </div>
----
----
+
+
+
 <!-- second information -->
 <div>
     <!-- notice how tags can be put INSIDE eachother -->
-    <p style=" color: Brown; font: bold 14px Open Sans;"> Click here to view my Sprint 2 journey! </p>
       <a href="https://nighthawkcoders.github.io/portfolio_2025/csp/big-idea/p3/3-4-0" class="button-link">Sprint 2 3.4</a>
 
 <style>
