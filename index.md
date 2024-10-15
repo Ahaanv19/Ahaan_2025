@@ -201,6 +201,7 @@ hide: true
         <td><a href="{{site.baseurl}}/india-culture/">Timeless India</a></td>
         <td><a href="{{site.baseurl}}/fitness/">Fitness Blog</a></td>
         <td><a href="{{site.baseurl}}/san-diego/">Discover San Diego</a></td>
+        <td><a href="{{site.baseurl}}/sprinttwo/">Sprint 2 Journey</a></td>
         
         
         
@@ -406,86 +407,5 @@ hide: true
 </style>
 </div>
 ---
-
-
-<p style=" color: Brown; font: bold 14px Open Sans;"> Click here to view my Sprint 2 journey! </p>
-
-<!-- second information -->
-<div>
-    <!-- notice how tags can be put INSIDE eachother -->
-      <a href="https://nighthawkcoders.github.io/portfolio_2025/csp/big-idea/p3/3-1-0" class="button-link">Sprint 2 3.1</a>
-
-<style>
-.button-link {
-    display: inline-block;
-    padding: 12px 24px;
-    font-size: 16px;
-    font-weight: bold;
-    text-align: center;
-    text-decoration: none;
-    color: #fff;
-    background-color: #4CAF50;
-    border: none;
-    border-radius: 8px;
-    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
-    transition: background-color 0.3s ease, box-shadow 0.3s ease;
-}
-
-.button-link:hover {
-    background-color: #45a049;
-    box-shadow: 0px 6px 8px rgba(0, 0, 0, 0.2);
-}
-
-.button-link:active {
-    background-color: #3e8e41;
-    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
-    transform: translateY(2px);
-
-}
-
-</style>
-     
-</div>
-
-
-
-<!-- second information -->
-<div>
-    <!-- notice how tags can be put INSIDE eachother -->
-      <a href="https://nighthawkcoders.github.io/portfolio_2025/csp/big-idea/p3/3-4-0" class="button-link">Sprint 2 3.4</a>
-
-<style>
-.button-link {
-    display: inline-block;
-    padding: 12px 24px;
-    font-size: 16px;
-    font-weight: bold;
-    text-align: center;
-    text-decoration: none;
-    color: #fff;
-    background-color: #4CAF50;
-    border: none;
-    border-radius: 8px;
-    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
-    transition: background-color 0.3s ease, box-shadow 0.3s ease;
-}
-
-.button-link:hover {
-    background-color: #45a049;
-    box-shadow: 0px 6px 8px rgba(0, 0, 0, 0.2);
-}
-
-.button-link:active {
-    background-color: #3e8e41;
-    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
-    transform: translateY(2px);
-
-}
-
-</style>
-     
-</div>
----
-
 
 
