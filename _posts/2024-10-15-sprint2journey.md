@@ -3,6 +3,7 @@ layout: post
 title:  Sprint 2 Journey
 permalink: /sprinttwo/
 toc: true
+comments: true
 ---
 
 <html>
