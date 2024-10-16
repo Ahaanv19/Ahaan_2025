@@ -102,6 +102,7 @@ Personal Growth and Mastery: One key area of personal growth during this sprint 
      
 </div>
 ---
-
+<a href="https://github.com/Av1922798/Ahaan_2025/issues/16" class="button-link">Sprint 2 Personal Issue</a>
+---
 
 
