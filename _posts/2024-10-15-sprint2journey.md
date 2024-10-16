@@ -23,7 +23,7 @@ Personal Growth and Mastery: One key area of personal growth during this sprint 
 </body>
 </html>
 
-
+---
 <p style=" color: Brown; font: bold 14px Open Sans;"> Click here to view my Sprint 2 journey! </p>
 
 <!-- second information -->
@@ -62,9 +62,9 @@ Personal Growth and Mastery: One key area of personal growth during this sprint 
 </style>
      
 </div>
+---
 
-
-
+---
 <!-- second information -->
 <div>
     <!-- notice how tags can be put INSIDE eachother -->
