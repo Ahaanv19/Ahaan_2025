@@ -37,7 +37,7 @@ Ultimately, the Chess Hangout Zone has reinforced our passion for creating inclu
 <!-- second information -->
 <div>
     <!-- notice how tags can be put INSIDE eachother -->
-      <a href="https://nighthawkcoders.github.io/flocker_frontend/chess/home" class="button-link">Sprint 2 3.1</a>
+      <a href="https://github.com/Ahaanv19/Ahaan_2025/issues/19" class="button-link">Sprint 3 Team Issue</a>
 
 <style>
 .button-link {
@@ -76,7 +76,7 @@ Ultimately, the Chess Hangout Zone has reinforced our passion for creating inclu
 <!-- second information -->
 <div>
     <!-- notice how tags can be put INSIDE eachother -->
-      <a href="https://nighthawkcoders.github.io/portfolio_2025/csp/big-idea/p3/3-4-0" class="button-link">Sprint 2 3.4</a>
+      <a href="https://nighthawkcoders.github.io/flocker_frontend/chess/home" class="button-link">Sprint 3 Group Page </a>
 
 <style>
 .button-link {

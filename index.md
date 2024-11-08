@@ -209,7 +209,9 @@ hide: true
     </tr>
 
 </table>
+
 <p1 style="font-size:70%; color: purple; font: bold 14px Open Sans;">Here is my progress through game coding, click to see these online  &#128513;</p1>
+
 <table>
     <tr>
         <td><img src="{{site.baseurl}}/images/game.png" height="60" title="Home" alt=""></td>
