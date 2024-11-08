@@ -201,9 +201,8 @@ hide: true
         <td><a href="{{site.baseurl}}/india-culture/">Timeless India</a></td>
         <td><a href="{{site.baseurl}}/fitness/">Fitness Blog</a></td>
         <td><a href="{{site.baseurl}}/san-diego/">Discover San Diego</a></td>
-        <td><a href="{{site.baseurl}}/sprinttwo/">Sprint 2 Journey</
-        <td><a href="{{site.baseurl}}/sprintthree/">Sprint 3 Journey</
-        a></td>
+        <td><a href="{{site.baseurl}}/sprinttwo/">Sprint 2 Journey</a></td>
+        <td><a href="{{site.baseurl}}/sprintthree/">Sprint 3 Journey</a></td>
         
         
         
