@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tool Setup Journey
+title: Sprint 1 Journey
 permalink: /toolsetup/
 --- 
 
