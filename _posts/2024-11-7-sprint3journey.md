@@ -110,5 +110,5 @@ Ultimately, the Chess Hangout Zone has reinforced our passion for creating inclu
      
 </div>
 ---
-<a href="https://github.com/Av1922798/Ahaan_2025/issues/16" class="button-link">Sprint 2 Personal Issue</a>
+<a href="https://github.com/Ahaanv19/Ahaan_2025/issues/20" class="button-link">Sprint 3 Personal Issue</a>
 ---
