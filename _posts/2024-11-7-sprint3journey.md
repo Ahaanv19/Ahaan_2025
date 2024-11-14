@@ -112,3 +112,27 @@ Ultimately, the Chess Hangout Zone has reinforced our passion for creating inclu
 ---
 <a href="https://github.com/Ahaanv19/Ahaan_2025/issues/20" class="button-link">Sprint 3 Personal Issue</a>
 ---
+
+<html>
+<body>
+<h1 style="font-size:300%; color: Blue; font: bold 35px Arial, sans-serif;">
+Practice College Board MCQ Blog</h1>
+
+---
+<p style="font-size:100%; color: Blue; font: italic bold 15px Arial, sans-serif;"> 
+1. In this quiz I learned the basics of the college boards pysdo coding language
+and I also learned the kind of questions to expect on the AP CSP exam in May, not just
+programming, but the field of computer science as a whole. </p>
+---
+
+---
+<p style="font-size:100%; color: Blue; font: italic bold 15px Arial, sans-serif;"> 
+2. I felt some of the questions I were weaker are were onces that invloved
+a bit more logical thinking, and questions that may revolve around a certain concept.
+I should spend time leading up to the AP CSP exam, to review conecpts like the digital divide </p>
+---
+
+
+
+</body>
+</html>
