@@ -139,6 +139,46 @@ Q37. D  Q39. A  Q42. D  Q43. A   Q46. D  Q53. A   Q55. D  Q56. D  Q58. A  Q62. C
 Q64. B,C  Q66. C,D  </p>
 ---
 
+---
+<p style="font-size:100%; color: Blue; font: italic bold 15px Arial, sans-serif;"> 
+3 Corrections: Q1. B  Q3. C  Q21. B  Q24. C  Q26. A  Q28. D  Q30. D
+Q37. D  Q39. A  Q42. D  Q43. A   Q46. D  Q53. A   Q55. D  Q56. D  Q58. A  Q62. C,D
+Q64. B,C  Q66. C,D  </p>
+---
+
+
+</body>
+</html>
+
+
+<html>
+<body>
+<h1 style="font-size:300%; color: Purple; font: bold 35px Arial, sans-serif;">
+Trimester 1-3 Review Ticket</h1>
+
+---
+<p style="font-size:100%; color: Blue; font: italic bold 15px Arial, sans-serif;"> 
+Tools Mastery:
+GitHub work pull requests, etc 
+Student led teaching lessons, DNHS flocker .
+. </p>
+---
+
+---
+<p style="font-size:100%; color: Blue; font: italic bold 15px Arial, sans-serif;"> 
+Programming 
+Show chess board DNHS flocker
+HTML and JavaScript efficiency 
+ </p>
+---
+
+---
+<p style="font-size:100%; color: Blue; font: italic bold 15px Arial, sans-serif;"> 
+College Board Requirements:
+Sprint 3 Flocker pull requests, collaboration in slack, student led lessons. 
+Aligns with College board big idea 3 and big idea 1 creative development, collaboration and design thinking process to develop this product 
+ </p>
+---
 
 
 </body>
