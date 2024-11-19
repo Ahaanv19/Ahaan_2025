@@ -137,6 +137,9 @@ I should spend time leading up to the AP CSP exam, to review conecpts like the d
 3 Corrections: Q1. B  Q3. C  Q21. B  Q24. C  Q26. A  Q28. D  Q30. D
 Q37. D  Q39. A  Q42. D  Q43. A   Q46. D  Q53. A   Q55. D  Q56. D  Q58. A  Q62. C,D
 Q64. B,C  Q66. C,D  </p>
+
+Reviewed by Arnav Mital
+
 ---
 
 
