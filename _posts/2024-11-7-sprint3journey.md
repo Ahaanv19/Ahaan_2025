@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Sprint 3 Journey
+title:  Sprint 3 Journey and MCQ Anaylsis Reflection
 permalink: /sprintthree/
 toc: true
 comments: true
@@ -8,175 +8,234 @@ comments: true
 
 <html>
 <body>
-<h1 style="font-size:300%; color: Blue; font: bold 35px Arial, sans-serif;">
-My Sprint 3 Personal Journey </h1>
+---
+<h1 style="font-size:300%; color: red; font: bold 21px Arial, sans-serif;">
+Binary Numbers (50%) </h1>
 
-<p style="font-size:100%; color: Blue; font: italic bold 15px Arial, sans-serif;"> 
-Self-Reflection on Creating the Chess Hangout Zone for Flocker
+<div class="section"> 
+        <h2>Performance</h2>
+        <p>This was one of my weakest areas, scoring only 50%. I struggled with understanding how to convert regular interger numbers to Binary form, and then applying those skills to question scenarios like bytes. On the quiz after I realized I don't understand binary, I asked my mom who has a Masters in Computer Science for help. So now I understand it, however I want to keep practicing</p>
+    </div>
 
-The journey of developing the Chess Hangout Zone for the Flocker platform has been an engaging and enlightening experience for our team. We set out to design not just a virtual chess board but a rich social space where the students of Del Norte High School could come together, learn, and interact over a shared love for chess. This project has allowed us to explore how technology can transform a simple game into a comprehensive social experience that connects people through competition, strategy, and collaboration.
+<div class="section">
+        <h2>Example Mistakes</h2>
+        <ul>
+            <li><strong>Mistake 1:</strong> Q28: With this question, I got it wrong because, I didn't understand binary sequence, and I didn't understand the logic of bits, therefore as a result I wasn't able to understand how to apply that knowledge.</li>
+            <li><strong>Mistake 2:</strong> Q42: In this question, I got it wrong because, I did not understand Interent Protocal Version, and how each version is represnted with different bit binary numbers.</li>
+        </ul>
+    </div>
 
-In choosing chess as the focal point, we wanted to build a space that encouraged both casual play and deeper engagement with the game’s complexities. Integrating the portfolio_2025 frontend and the flask_2025 backend has been essential in achieving a seamless user experience that fits within the larger Flocker framework. This integration taught us the importance of adapting existing infrastructure to meet new objectives, and it was fulfilling to see how flexible and dynamic our codebase could be when reshaped for a specific purpose.
-
-The project’s social aspect was especially important to us. Creating an environment where users can not only play but also discuss moves, share strategies, and engage in community-driven learning has shaped our understanding of what a "hangout zone" can truly be. By providing features like spectator options and a channel section for chats and analysis, we aimed to create a space where people could be active participants or passive observers, each role contributing to the community.
-
-One of our key takeaways from this project has been the realization of how multifaceted game development can be when social elements are incorporated. From UI/UX decisions to the backend mechanics that enforce legal moves and track player interactions, every aspect required careful consideration and iterative improvement. We also faced challenges in balancing functionality with the user experience; however, these challenges became valuable lessons in problem-solving, collaboration, and adaptability.
-
-Through building this zone, we also learned a great deal about the cultural and educational aspects of chess. We wanted to design a platform that wasn’t only about winning but about learning and growing. By adding features like pop-ups for check, checkmate, and turns, we aimed to make the game accessible to beginners while still engaging for more experienced players. The emphasis on sharing strategies and identifying the best chess master reflects our belief in collective growth and knowledge-sharing within a community.
-
-Ultimately, the Chess Hangout Zone has reinforced our passion for creating inclusive digital spaces that combine learning and interaction. This project has challenged us to think beyond simple functionality, pushing us to consider how we can create a meaningful experience that draws people together. We hope that this space becomes a lasting part of the Flocker platform, helping future students at Del Norte High School foster connections, grow in skill, and, above all, enjoy the timeless game of chess.</p>
-
-
-
-</body>
-</html>
+<div class="section">
+        <h2>Solutions</h2>
+        <ul class="solution-list">
+            <li><strong>AP Classroom Daily Video</strong> I'll practice by watching the recomended AP classroom videos for this topic that is recomended on the practice quiz, so I become better at applying.</li>
+            <li><strong>Daily Practice Problems:</strong> I’ll go online to Khan Acedemy every day for 20 min, and find practice problems, to strengthen my skills, so next time, I will become better at Booleans. </li>
+        </ul>
+    </div>
+--- 
 
 ---
-<p style=" color: Brown; font: bold 14px Open Sans;"> Click here to view my Sprint 3 journey! </p>
+ <h1 style="font-size:300%; color: red; font: bold 21px Arial, sans-serif;">
+Conditionals (50%) </h1>
 
-<!-- second information -->
-<div>
-    <!-- notice how tags can be put INSIDE eachother -->
-      <a href="https://github.com/Ahaanv19/Ahaan_2025/issues/19" class="button-link">Sprint 3 Team Issue</a>
+<div class="section"> 
+        <h2>Performance</h2>
+        <p>This was also one of my weakest areas, scoring only 50%. I struggled with understanding how identify nested conditionals esspically, and how to apply the logic in conditionals  like when it comes to robot programing and trying to naviagate an object to a certain destnation.</p>
+    </div>
 
-<style>
-.button-link {
-    display: inline-block;
-    padding: 12px 24px;
-    font-size: 16px;
-    font-weight: bold;
-    text-align: center;
-    text-decoration: none;
-    color: #fff;
-    background-color: #4CAF50;
-    border: none;
-    border-radius: 8px;
-    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
-    transition: background-color 0.3s ease, box-shadow 0.3s ease;
-}
+<div class="section">
+        <h2>Example Mistakes</h2>
+        <ul>
+            <li><strong>Mistake 1:</strong> Q26: With this question, I got it wrong because, I didn't understand robot programing and I didn't understand/ couldn't correctly split around the conditionals to determine how to get the robot to reach the grey square. I need to work on these kind of problems</li>
+        </ul>
+    </div>
 
-.button-link:hover {
-    background-color: #45a049;
-    box-shadow: 0px 6px 8px rgba(0, 0, 0, 0.2);
-}
+<div class="section">
+        <h2>Solutions</h2>
+        <ul class="solution-list">
+            <li><strong>AP Classroom Daily Video</strong> I'll practice by watching the recomended AP classroom videos for this topic that is recomended on the practice quiz, so I become better at applying.</li>
+            <li><strong>Daily Practice with IF, ELIF, and ELSE statements:</strong> I’ll go online to Khan Acedemy every day for 20 min, and find practice problems, to strengthen my skills, and I will also practice creating my own scenarios where I identify on what conditions are true, the task that will be carried out. </li>
+        </ul>
+    </div>
+ ---   
 
-.button-link:active {
-    background-color: #3e8e41;
-    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
-    transform: translateY(2px);
-
-}
-
-</style>
-     
-</div>
----
 
 ---
-<!-- second information -->
-<div>
-    <!-- notice how tags can be put INSIDE eachother -->
-      <a href="https://nighthawkcoders.github.io/flocker_frontend/chess/home" class="button-link">Sprint 3 Group Page </a>
+<h1 style="font-size:300%; color: red; font: bold 21px Arial, sans-serif;">
+Iteration (50%) </h1>
 
-<style>
-.button-link {
-    display: inline-block;
-    padding: 12px 24px;
-    font-size: 16px;
-    font-weight: bold;
-    text-align: center;
-    text-decoration: none;
-    color: #fff;
-    background-color: #4CAF50;
-    border: none;
-    border-radius: 8px;
-    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
-    transition: background-color 0.3s ease, box-shadow 0.3s ease;
-}
+<div class="section"> 
+        <h2>Performance</h2>
+        <p>This was another one of my weakest areas, scoring only 50%. I really do understand iterations and loops, it was just me not reading the question correctely and forgeting a bit of the structure of iterations</p>
+    </div>
 
-.button-link:hover {
-    background-color: #45a049;
-    box-shadow: 0px 6px 8px rgba(0, 0, 0, 0.2);
-}
+<div class="section">
+        <h2>Example Mistakes</h2>
+        <ul>
+            <li><strong>Mistake 1:</strong> Q56: This question I got incorrect because I forgot that iterations start at 0, not 1, so twenty times would go to 19, if we include 0.</li>
+        </ul>
+    </div>
 
-.button-link:active {
-    background-color: #3e8e41;
-    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
-    transform: translateY(2px);
-
-}
-
-</style>
-     
-</div>
----
-<a href="https://github.com/Ahaanv19/Ahaan_2025/issues/20" class="button-link">Sprint 3 Personal Issue</a>
----
-
-<html>
-<body>
-<h1 style="font-size:300%; color: Blue; font: bold 35px Arial, sans-serif;">
-Practice College Board MCQ Blog</h1>
+<div class="section">
+        <h2>Solutions</h2>
+        <ul class="solution-list">
+            <li><strong>AP Classroom Daily Video</strong> I'll regain my understanding by watching the recommended videos for this topic so I can make sure to remember this mistake fact.</li>
+            <li><strong>Re-Reading Question:</strong> I’ll make sure that I reread the question before choosing an answer, in which, I can easily catch mistakes like this. </li>
+        </ul>
+    </div>
+--- 
 
 ---
-<p style="font-size:100%; color: Blue; font: italic bold 15px Arial, sans-serif;"> 
-1. In this quiz I learned the basics of the college boards pysdo coding language
-and I also learned the kind of questions to expect on the AP CSP exam in May, not just
-programming, but the field of computer science as a whole. </p>
----
+<h1 style="font-size:300%; color: red; font: bold 21px Arial, sans-serif;">
+Developing Algorithms (50%) </h1>
+
+<div class="section"> 
+        <h2>Performance</h2>
+        <p>This was another one of my weakest areas, scoring only 50%. I really was getting confused by questions involving algorithims with robots, the robot programing questions seemed to throw me off a lot.</p>
+    </div>
+
+<div class="section">
+        <h2>Example Mistakes</h2>
+        <ul>
+            <li><strong>Mistake 1:</strong> Q31: This question I got incorrect because I wasn't able to correctly identify and interpret the correct movements of the robot, to get to the target. I should draw a digram to represent the moves.</li>
+            <li><strong>Mistake 2:</strong> Q37: I got this question incorrect because, I misread code segement 2, in which I thought it gave an inaccurate result, but it gave the same answer.</li>
+        </ul>
+    </div>
+
+<div class="section">
+        <h2>Solutions</h2>
+        <ul class="solution-list">
+            <li><strong>AP Classroom Daily Video & More Programing in That Area</strong> I'll regain my understanding by watching the recommended videos for this topic so I can make sure to remember this mistake fact. I will also make sure when I program, I should, try my best to make programs with more simplfied operations for the most efficency.</li>
+        </ul>
+    </div>
+--- 
 
 ---
-<p style="font-size:100%; color: Blue; font: italic bold 15px Arial, sans-serif;"> 
-2. I felt some of the questions I were weaker are were onces that invloved
-a bit more logical thinking, and questions that may revolve around a certain concept.
-I should spend time leading up to the AP CSP exam, to review conecpts like the digital divide and concepts about the internet. Also another concept I noticed I was weak in was robot movement/algortheim. </p>
----
+<h1 style="font-size:300%; color: gold; font: bold 21px Arial, sans-serif;">
+Calling Procedures (60%) </h1>
+
+<div class="section"> 
+        <h2>Performance</h2>
+        <p>This was a weak area for me, not as bad as some areas, but still needing improvment , scoring 60%. I really need to work on understanding, logic coding, like robot programing, that seems to be a big issue in a lot of categories</p>
+    </div>
+
+<div class="section">
+        <h2>Example Mistakes</h2>
+        <ul>
+            <li><strong>Mistake 1:</strong> Q21: This question I got incorrect because I wasn't able to correctly identify and interpret the correct movements of the robot, and I misinterpreted the correct movments for the robot.</li>
+            <li><strong>Mistake 2:</strong> Q55: I got this question incorrect because, I misread the conditional statement of this Procedure, which unfortuantly led to me calculating and getting the wrong results..</li>
+        </ul>
+    </div>
+
+<div class="section">
+        <h2>Solutions</h2>
+        <ul class="solution-list">
+            <li><strong>AP Classroom Daily Video</strong> I'll regain my understanding by watching the recommended videos for this topic so I can make sure to remember this mistake fact.</li>
+            <li><strong>Daily Practice</strong> I'll use resources like Khan Acedemy and online coding practice for 15 min every day, so I can practice quickly identifying the output of the function to see what the result will be.</li>
+        </ul>
+    </div>
+--- 
 
 ---
-<p style="font-size:100%; color: Blue; font: italic bold 15px Arial, sans-serif;"> 
-3 Corrections: Q1. B  Q3. C  Q21. B  Q24. C  Q26. A  Q28. D  Q30. D
-Q37. D  Q39. A  Q42. D  Q43. A   Q46. D  Q53. A   Q55. D  Q56. D  Q58. A  Q62. C,D
-Q64. B,C  Q66. C,D  </p>
+<h1 style="font-size:300%; color: gold; font: bold 21px Arial, sans-serif;">
+Data Compression (67%) </h1>
 
-Reviewed by Arnav Mital
+<div class="section"> 
+        <h2>Performance</h2>
+        <p>This was a weak area for me, not as bad as some areas, but still needing some improvment , scoring 67%. I failed to correctly understand Byte pair encoding, and thus my incorrect understanding, led to the incorrect answer.</p>
+    </div>
 
----
+<div class="section">
+        <h2>Example Mistakes</h2>
+        <ul>
+            <li><strong>Mistake 1:</strong> Q24: This question I got incorrect because I wasn't able to correctly inteprt this encoding algrotheim, in which I misunderstood the purpose behind Byte Pair encoding.</li>
+        </ul>
+    </div>
 
-
-
-</body>
-</html>
-
-
-<html>
-<body>
-<h1 style="font-size:300%; color: Purple; font: bold 35px Arial, sans-serif;">
-Trimester 1-3 Review Ticket</h1>
-
----
-<p style="font-size:100%; color: Blue; font: italic bold 15px Arial, sans-serif;"> 
-Tools Mastery:
-GitHub work pull requests, etc 
-Student led teaching lessons, DNHS flocker .
-. </p>
----
+<div class="section">
+        <h2>Solutions</h2>
+        <ul class="solution-list">
+            <li><strong>Daily Practice</strong> I'll use resources like Khan Acedemy and online coding practice for 15 min every day, so I can practice understanding what Byte Pair encoding is utlized for, and the most effective ways to utilize it.</li>
+            <li><strong>AP Daily Classroom Video</strong> I'll use resources like AP Classroom's daily videos, so I can practice understanding what Byte Pair encoding is utlized for, and the most effective ways to utilize it.</li>
+        </ul>
+    </div>
+--- 
 
 ---
-<p style="font-size:100%; color: Blue; font: italic bold 15px Arial, sans-serif;"> 
-Programming 
-Show chess board DNHS flocker
-HTML and JavaScript efficiency 
- </p>
----
+<h1 style="font-size:300%; color: gold; font: bold 21px Arial, sans-serif;">
+Variables and Assignments (67%) </h1>
+
+<div class="section"> 
+        <h2>Performance</h2>
+        <p>This was a weak area for me, not as bad as some areas, but still needing some improvment , scoring 67%. I failed to grasp how to swap variable values, and thus this led to the wrong conclusions.</p>
+    </div>
+
+<div class="section">
+        <h2>Example Mistake</h2>
+        <ul>
+            <li><strong>Mistake 1:</strong> Q1: I got this question incorrect because I wasn't able to correctly swap the first and second variable values. I didn't understand how to approach variable swapping and after looking over my answer, I determined the correct way I should approach varriable swapping..</li>
+        </ul>
+    </div>
+
+<div class="section">
+        <h2>Solutions</h2>
+        <ul class="solution-list">
+            <li><strong>Daily Practice</strong> I'll use resources like Khan Acedemy and online coding practice for 20 min every day, so I can practice swapping the values of two variables. This is a very crucial skill to understand in coding, so it's very important I practice the correct way to do it..</li>
+            <li><strong>AP Daily Classroom Video</strong> I'll use resources like AP Classroom so I can practice my skills at variable swapping.</li>
+        </ul>
+    </div>
+--- 
+
 
 ---
-<p style="font-size:100%; color: Blue; font: italic bold 15px Arial, sans-serif;"> 
-College Board Requirements:
-Sprint 3 Flocker pull requests, collaboration in slack, student led lessons. 
-Aligns with College board big idea 3 and big idea 1 creative development, collaboration and design thinking process to develop this product 
- </p>
+<h1 style="font-size:300%; color: gold; font: bold 21px Arial, sans-serif;">
+The Internet (67%) </h1>
+
+<div class="section"> 
+        <h2>Performance</h2>
+        <p>This was a weak area for me, not as bad as some areas, but still needing some improvment , scoring 67%. I failed to understand how the internet works, and even though I only got one question wrong in this section, I think I struggled the most with this personally and I need more practice</p>
+    </div>
+
+<div class="section">
+        <h2>Example Mistake</h2>
+        <ul>
+            <li><strong>Mistake 1:</strong> Q39: I got this question incorrect because I didn't understand what open standards and protcol for the internet was, as I never heard of it before. I need to deep dive further into 4.1, the internet and put my focus onto that the most.</li>
+        </ul>
+    </div>
+
+<div class="section">
+        <h2>Solutions</h2>
+        <ul class="solution-list">
+            <li><strong>Daily Practice</strong> I'll use resources like Khan Acedemy and online coding practice for 20 min every day, so I can practice learning and doing more practice problems about the internet, so I can be more succesful with this on the AP Exam.</li>
+            <li><strong>AP Daily Classroom Video</strong> I'll use AP Classroom Daily video that they recomend for this topic, so I can gain a stronger knowledge in the internet because it's a topic i'm struggling a lot with.</li>
+        </ul>
+    </div>
+--- 
+
 ---
+<h1 style="font-size:300%; color: green; font: bold 21px Arial, sans-serif;">
+Identifying and Correcting Errors (75%) </h1>
+
+<div class="section"> 
+        <h2>Performance</h2>
+        <p>This was a pretty strong area for me as I got 75% in this category, however there are always room for me to improve and get better./p>
+    </div>
+
+<div class="section">
+        <h2>Example Mistake</h2>
+        <ul>
+            <li><strong>Mistake 1:</strong> Q66: I got this question partially wrong, I got one of the correct answers, however I failed to identify the other incorrect answer because I misread, the code for the answer I selected, which led me to believe I was correct when I really wasn't.</li>
+        </ul>
+    </div>
+
+<div class="section">
+        <h2>Solutions</h2>
+        <ul class="solution-list">
+            <li><strong>AP Daily Classroom Video</strong> I'll use AP Classroom Daily video that they recomend for correcting errors, just so I can avoid making similar mistakes like this again in the future. I really have to think about the logic of the code I produce.</li>
+        </ul>
+    </div>
+--- 
 
 
-</body>
-</html>
+
+
