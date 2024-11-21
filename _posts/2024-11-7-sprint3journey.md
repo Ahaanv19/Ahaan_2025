@@ -218,7 +218,7 @@ Identifying and Correcting Errors (75%) </h1>
 
 <div class="section"> 
         <h2>Performance</h2>
-        <p>This was a pretty strong area for me as I got 75% in this category, however there are always room for me to improve and get better./p>
+        <p>This was a pretty strong area for me as I got 75% in this category, however there are always room for me to improve and get better.</p>
     </div>
 
 <div class="section">
