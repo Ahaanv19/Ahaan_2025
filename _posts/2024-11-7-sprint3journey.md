@@ -9,11 +9,6 @@ comments: true
 <html>
 <body>
 ---
-<p1 style="font-size:300%; color: black; font: bold 30px Arial, sans-serif;">
-I wanted to analyze the questions I got wrong based on the section, and I color-coded, red being worst section, gold being the second worst section, and green being a section I did well on, but can do better. </p1>
----        
-
----
 <h1 style="font-size:300%; color: red; font: bold 21px Arial, sans-serif;">
 Binary Numbers (50%) </h1>
 
