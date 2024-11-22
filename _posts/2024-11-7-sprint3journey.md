@@ -31,7 +31,7 @@ Binary Numbers (50%) </h1>
     </div>
 
 <div class="section">
-        <h2>Solutions</h2>
+        <h2>Solutions to Improve</h2>
         <ul class="solution-list">
             <li><strong>AP Classroom Daily Video</strong> I'll practice by watching the recommended AP classroom videos for this topic that is recommended on the practice quiz, so I become better at applying.</li>
             <li><strong>Daily Practice Problems:</strong> I’ll go online to Khan Academy every day for 20 min, and find practice problems, to strengthen my skills, so next time, I will become better at Booleans. </li>
@@ -56,7 +56,7 @@ Conditionals (50%) </h1>
     </div>
 
 <div class="section">
-        <h2>Solutions</h2>
+        <h2>Solutions to Improve</h2>
         <ul class="solution-list">
             <li><strong>AP Classroom Daily Video</strong> I'll practice by watching the recommended AP classroom videos for this topic that is recommended on the practice quiz, so I become better at applying.</li>
             <li><strong>Daily Practice with IF, ELIF, and ELSE statements:</strong> I’ll go online to Khan Academy every day for 20 min, and find practice problems, to strengthen my skills, and I will also practice creating my scenarios where I identify on what conditions are true. This task will be carried out. </li>
@@ -82,7 +82,7 @@ Iteration (50%) </h1>
     </div>
 
 <div class="section">
-        <h2>Solutions</h2>
+        <h2>Solutions to Improve</h2>
         <ul class="solution-list">
             <li><strong>AP Classroom Daily Video</strong> I'll regain my understanding by watching the recommended videos for this topic so I can make sure to remember this mistake fact.</li>
             <li><strong>Re-Reading Question:</strong> I’ll make sure that I reread the question before choosing an answer, in which, I can easily catch mistakes like this. </li>
@@ -108,7 +108,7 @@ Developing Algorithms (50%) </h1>
     </div>
 
 <div class="section">
-        <h2>Solutions</h2>
+        <h2>Solutions to Improve</h2>
         <ul class="solution-list">
             <li><strong>AP Classroom Daily Video & More Programing in That Area</strong> I'll regain my understanding by watching the recommended videos for this topic so I can make sure to remember this mistake fact. I will also make sure when I program, I should try my best to make programs with more simplified operations for the most efficiency.</li>
         </ul>
@@ -133,7 +133,7 @@ Calling Procedures (60%) </h1>
     </div>
 
 <div class="section">
-        <h2>Solutions</h2>
+        <h2>Solutions to Improve</h2>
         <ul class="solution-list">
             <li><strong>AP Classroom Daily Video</strong> I'll regain my understanding by watching the recommended videos for this topic so I can make sure to remember this mistake fact.</li>
             <li><strong>Daily Practice</strong> I'll use resources like Khan Academy and online coding practice for 15 min every day, so I can practice quickly identifying the output of the function to see what the result will be.</li>
@@ -158,7 +158,7 @@ Data Compression (67%) </h1>
     </div>
 
 <div class="section">
-        <h2>Solutions</h2>
+        <h2>Solutions to Improve</h2>
         <ul class="solution-list">
             <li><strong>Daily Practice</strong> I'll use resources like Khan Academy and online coding practice for 15 min every day, so I can practice understanding what Byte Pair encoding is utilized for, and the most effective ways to utilize it.</li>
             <li><strong>AP Daily Classroom Video</strong> I'll use resources like AP Classroom's daily videos, so I can practice understanding what Byte Pair encoding is utilized for, and the most effective ways to utilize it.</li>
@@ -183,7 +183,7 @@ Variables and Assignments (67%) </h1>
     </div>
 
 <div class="section">
-        <h2>Solutions</h2>
+        <h2>Solutions to Improve</h2>
         <ul class="solution-list">
             <li><strong>Daily Practice</strong> I'll use resources like Khan Academy and online coding practice for 20 min every day, so I can practice swapping the values of two variables. This is a very crucial skill to understand in coding, so I must practice the correct way to do it..</li>
             <li><strong>AP Daily Classroom Video</strong> I'll use resources like AP Classroom so I can practice my skills at variable swapping.</li>
@@ -209,7 +209,7 @@ The Internet (67%) </h1>
     </div>
 
 <div class="section">
-        <h2>Solutions</h2>
+        <h2>Solutions to Improve</h2>
         <ul class="solution-list">
             <li><strong>Daily Practice</strong> I'll use resources like Khan Academy and online coding practice for 20 min every day, so I can practice learning and doing more practice problems about the internet, so I can be more successful with this on the AP Exam.</li>
             <li><strong>AP Daily Classroom Video</strong> I'll use the AP Classroom Daily video that they recommend for this topic, so I can gain stronger knowledge on the internet because it's a topic I'm struggling a lot with.</li>
@@ -234,7 +234,7 @@ Identifying and Correcting Errors (75%) </h1>
     </div>
 
 <div class="section">
-        <h2>Solutions</h2>
+        <h2>Solutions to Improve</h2>
         <ul class="solution-list">
             <li><strong>AP Daily Classroom Video</strong> I'll use the AP Classroom Daily video that they recommend for correcting errors in programming, just so I can avoid making similar mistakes like this again in the future. I have to think about the logic of the code I produce.</li>
         </ul>
