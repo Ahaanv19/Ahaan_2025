@@ -231,7 +231,7 @@ hide: true
     <tr>
         <td><img src="{{site.baseurl}}/images/notebook.png" height="60" title="Home" alt=""></td>
         <td><a href="{{site.baseurl}}/javascript/">Javascript Cell Notebook</a></td>
-        <td><a href="{{site.baseurl}}/python/">Python Notebook and About</a></td>
+        <td><a href="{{site.baseurl}}/stack/">Full Stack Blog</a></td>
         <td><a href="{{site.baseurl}}/problems/">Expected Results But Problem Notebook</a></td>
    
      
