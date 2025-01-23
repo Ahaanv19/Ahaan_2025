@@ -199,8 +199,8 @@ hide: true
     <tr>
         <td><img src="{{site.baseurl}}/images/flag.jpeg" height="60" title="Home" alt=""></td>
         <td><a href="{{site.baseurl}}/india-culture/">Timeless India</a></td>
-        <td><a href="{{site.baseurl}}/fitness/">Fitness Blog</a></td>
-        <td><a href="{{site.baseurl}}/san-diego/">Discover San Diego</a></td>
+        <td><a href="{{site.baseurl}}/fitness/">Student Panel Blog 1/9/25</a></td>
+        <td><a href="{{site.baseurl}}/san-diego/">Backend Frontend Review Ticket</a></td>
         <td><a href="{{site.baseurl}}/sprinttwo/">Sprint 2 Journey</a></td>
         <td><a href="{{site.baseurl}}/sprintthree/">College Board MCQ Reflection</a></td>
         
