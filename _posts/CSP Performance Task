@@ -1,0 +1,37 @@
+"""
+This program is a fun guessing game testing your knowledge on USA Presidents.
+"""
+
+def ask_question(question, correct_answer):
+    """
+    Asks a question, gives the user three attempts, and provides feedback.
+    """
+    for i in range(3):  # Three attempts per question
+        answer = input(question)
+        if answer == correct_answer:
+            print("Great job!")
+            return  # Exit function after correct answer
+        else:
+            if i < 2:
+                print("Please try again.")
+            else:
+                print(f"Sorry, the correct answer is {correct_answer}.")
+
+print("Welcome to the quiz game on presidents, you get three tries for each question!")
+start = input("Would you like to begin the quiz? (yes/no): ")
+
+# List of questions and answers (meeting the "list/collection" requirement)
+quiz_questions = [
+    ("Who was the second President of USA? ", "John Adams"),
+    ("Who was the first President of USA? ", "George Washington"),
+    ("Who is the current president of USA? ", "Donald Trump")
+]
+
+# Restore original while-loop structure while still using the list
+index = 0  # Keep track of which question we are on
+while start.lower() == "yes" and index < len(quiz_questions):
+    question, correct_answer = quiz_questions[index]
+    ask_question(question, correct_answer)
+    index += 1  # Move to the next question
+
+print("You finished the quiz!!!")
