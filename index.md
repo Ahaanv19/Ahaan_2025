@@ -201,8 +201,8 @@ hide: true
         <td><a href="{{site.baseurl}}/india-culture/">Deploying Blog</a></td>
         <td><a href="{{site.baseurl}}/fitness/">Student Panel Blog 1/9/25</a></td>
         <td><a href="{{site.baseurl}}/san-diego/">Backend Frontend Review Ticket</a></td>
-        <td><a href="{{site.baseurl}}/sprinttwo/">Sprint 2 Journey</a></td>
-        <td><a href="{{site.baseurl}}/sprintthree/">College Board MCQ Reflection</a></td>
+        <td><a href="{{site.baseurl}}/sprinttwo/">Big Idea 3 Blog</a></td>
+        <td><a href="{{site.baseurl}}/sprintthree/">AP CSP College Board MCQ Reflection</a></td>
         <td><a href="{{site.baseurl}}/BI/">Big Idea 4 Blog</a></td>
         
         
