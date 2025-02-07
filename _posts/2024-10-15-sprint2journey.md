@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Sprint 2 Journey
+title:  Big Idea 3 Blog
 permalink: /sprinttwo/
 toc: true
 comments: true
@@ -9,7 +9,7 @@ comments: true
 <html>
 <body>
 <h1 style="font-size:300%; color: Blue; font: bold 35px Arial, sans-serif;">
-My Sprint 2 Personal Journey </h1>
+Big Idea 3 Blog </h1>
 
 <p style="font-size:100%; color: Blue; font: italic bold 15px Arial, sans-serif;"> Throughout this sprint, the self-start lessons were impactful for me. They allowed me to explore various topics at my own pace, particularly in lessons 3.1, 3.6, and beyond. These lessons gave me the opportunity to solidify concepts I was already familiar with while focusing on specific areas where I needed improvement. This was especially helpful when student-led teaching shifted my attention to the parts I was less confident about. Having a strong understanding of these specific sections ensured I could prepare for the AP Exam effectively, rather than revisiting material I was already comfortable with.
 
