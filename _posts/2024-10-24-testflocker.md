@@ -22,7 +22,7 @@ In AP Computer Science Principles (CSP), Big Idea 4 focuses on the importance of
 
 #### Example: Making an HTTP GET Request in JavaScript
 ```javascript
-fetch("https://api.example.com/data", {
+fetch("https://api.example.com/sections", {
     method: "GET",
     headers: {
         "Content-Type": "application/json"
@@ -50,7 +50,7 @@ def get_data():
     return jsonify({"message": "Hello from AWS EC2"})
 
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=5000)
+    app.run(host="0.0.0.0", port=8103)
 ```
 
 ## 2. TCP/UDP (Transport Layer)
@@ -69,7 +69,7 @@ server {
     listen 80;
     server_name api.example.com;
     location / {
-        proxy_pass http://localhost:5000;
+        proxy_pass http://localhost:8103;
         proxy_set_header Host $host;
         proxy_set_header X-Real-IP $remote_addr;
     }
