@@ -125,6 +125,90 @@ def login():
     return jsonify({"error": "Invalid credentials"}), 401
 ```
 
+## Connection to AP CSP Big Idea 4:
+In AP Computer Science Principles (CSP), Big Idea 4 focuses on the importance of the internet and networking in computing systems. Understanding the layers of the networking stack is essential for students to comprehend how data moves across the internet, from end-users (clients) to servers, and how systems communicate in a distributed environment. This blog provides a practical understanding of these layers in a real-world scenario, highlighting the importance of secure and efficient data transmission in web development.
+
+## 1. HTTP/DNS (Application Layer)
+
+### Frontend (GitHub Pages):
+- The frontend makes HTTP(S) requests using JavaScript’s `fetch` API.
+- The domain name of the AWS EC2 backend is resolved via DNS.
+- The request includes method, headers, and optional body (e.g., JSON payload for CRUD operations).
+
+#### Example: Making an HTTP GET Request in JavaScript
+```javascript
+fetch("https://api.example.com/sections", {
+    method: "GET",
+    headers: {
+        "Content-Type": "application/json"
+    }
+})
+.then(response => response.json())
+.then(data => console.log(data))
+.catch(error => console.error("Error:", error));
+```
+
+### Backend (AWS EC2 with Docker):
+- The backend processes the request inside a Docker container.
+- Handles CRUD operations on an SQL database.
+- Constructs an HTTP response.
+- Uses Certbot for HTTPS security.
+
+#### Example: Python Flask API Handling a Request
+```python
+from flask import Flask, request, jsonify
+
+app = Flask(__name__)
+
+@app.route("/data", methods=["GET"])
+def get_data():
+    return jsonify({"message": "Hello from AWS EC2"})
+
+if __name__ == "__main__":
+    app.run(host="0.0.0.0", port=8103)
+```
+
+## 2. TCP/UDP (Transport Layer)
+### Request:
+- HTTP(S) requests are transmitted using TCP.
+- Nginx manages TCP traffic and routes it to the correct container.
+- TCP handshake ensures a reliable connection.
+
+### Response:
+- The server sends an HTTP response over the same TCP connection.
+- TCP guarantees in-order and complete delivery.
+
+#### Example: Configuring Nginx for Reverse Proxy
+```nginx
+server {
+    listen 80;
+    server_name api.example.com;
+    location / {
+        proxy_pass http://localhost:8103;
+        proxy_set_header Host $host;
+        proxy_set_header X-Real-IP $remote_addr;
+    }
+}
+```
+
+## 3. IP (Network Layer)
+### Request:
+- TCP segments are encapsulated into IP packets.
+- Packets are routed to AWS EC2 via routers.
+
+### Response:
+- The AWS EC2 server sends packets back to the client.
+- AWS handles routing and load balancing.
+
+#### Example: Checking Network Traffic with `tcpdump`
+```sh
+sudo tcpdump -i eth0 port 80 or port 443
+```
+
+## 4. Physical Layer
+### Request & Response:
+- IP packets are converted into physical signals (Ethernet, Wi-Fi, fiber optics).
+- Signals travel through routers, cables, and wireless networks.
 
 
 #### Tools in Use
