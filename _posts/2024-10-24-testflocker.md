@@ -1,17 +1,18 @@
 ---
 layout: post
-title: Big Idea 4 Blog
+title: Personal Feature Database Blog
 permalink: /BI/
 toc: true
 comments: true
 ---
 
-# Big Idea 4: The Internet - Networking Stack in a GitHub Pages → AWS EC2 Interaction, Personal Features
+# Personal Full Stack Feature: College Board Performance Task Blog
 
 ## Introduction
-When a frontend hosted on GitHub Pages interacts with a backend Python web application on AWS EC2, multiple layers of the networking stack come into play. This blog explores these layers in depth and provides code snippets demonstrating how the interaction works. Additionally, we will analyze how this project aligns with AP Computer Science Principles (AP CSP) Big Ideas and the College Board’s Create Performance Task (CPT) requirements.
+When a frontend hosted on GitHub Pages interacts with a backend Python web application on AWS EC2, multiple layers of the networking stack come into play. This blog explores these layers in depth and provides code snippets demonstrating how the interaction works. Additionally, we will analyze how this features aligns with AP Computer Science Principles (AP CSP) Big Ideas and the College Board’s Create Performance Task (CPT) requirements.
 
 ## Connection to AP CSP Big Ideas
+
 ### **Big Idea 1: Creative Development**
 - The development of this project required designing and implementing a structured approach to handling frontend-backend communication.
 - Using GitHub Pages and AWS EC2 demonstrates creativity in deploying a scalable system.
@@ -72,22 +73,19 @@ if __name__ == "__main__":
 - The ability to dynamically manage genres enhances user experience.
 - Ensuring secure communication using HTTPS prevents unauthorized data access.
 
-## Connection to CPT Requirements
-1. **Program Purpose & Function:**
-   - The purpose is to enable users to manage and categorize book genres efficiently.
-   - Users can perform CRUD operations via a user-friendly interface.
+## **Detailed Connection to CPT Requirements**
 
-2. **Data Usage:**
-   - Data is stored in an SQL database and retrieved using REST API calls.
-   - JSON formatting ensures data consistency and readability.
+### **1. Program Purpose & Function**
+- The program allows users to categorize and manage book genres efficiently.
+- CRUD operations enable users to create, read, update, and delete genres.
+- The interface provides an interactive experience while maintaining data integrity.
+- The use of RESTful APIs allows scalable and modular architecture, aligning with CPT’s requirement for well-structured and purposeful development.
 
-3. **Algorithms & Abstraction:**
-   - The project abstracts complex backend processes by exposing RESTful API endpoints.
-   - JavaScript event handlers dynamically update the UI based on user input.
-
-4. **Testing & Debugging:**
-   - Unit tests verify backend functionality.
-   - Console logs and network monitoring debug frontend issues.
+### **2. Data Usage**
+- Data is persistently stored in an SQL database, ensuring availability across sessions.
+- JSON-based REST API responses facilitate structured and machine-readable data.
+- Query optimization ensures performance efficiency, addressing CPT’s emphasis on effective data handling.
+- Error handling mechanisms ensure data consistency, preventing corruption due to failed operations.
 
 #### **Example: Backend Testing Using Pytest**
 ```python
@@ -96,22 +94,11 @@ def test_get_sections():
     assert response.status_code == 200
 ```
 
-
-## Connection to AP CSP Create Performance Task (CPT)
-### Code Development Process
-The Create Performance Task (CPT) requires students to develop a program that:
-- Performs data collection, storage, and manipulation.
-- Utilizes an abstraction to simplify a complex process.
-- Implements an algorithm that achieves a specific outcome.
-
-### How This Project Meets CPT Requirements  
-
-| Requirement              | Implementation                            |
-|-------------------------|-----------------------------------------|
-| **Data Collection**      | Stores section data in an SQL database |
-| **Procedural Abstraction** | Uses functions like `get_sections()` to handle data retrieval |
-| **Algorithm Implementation** | Implements authentication using JWT tokens |
-
+### **3. Algorithms & Abstraction**
+- The backend leverages RESTful API abstractions to handle user requests efficiently.
+- The frontend dynamically processes and renders data to the UI, simplifying the user experience.
+- JWT authentication abstracts security measures, ensuring secure access to user data.
+- The program meets CPT’s requirement for implementing abstraction in code through modular function design.
 
 #### Example: Creating and Using a JWT Token for Authentication
 ```python
@@ -125,8 +112,32 @@ def login():
     return jsonify({"error": "Invalid credentials"}), 401
 ```
 
-## Connection to AP CSP Big Idea 4:
+### **4. Testing & Debugging**
+- Unit tests validate API functionality, ensuring consistent behavior.
+- Logging mechanisms help debug errors and improve system reliability.
+- Automated test scripts enable regression testing to maintain performance integrity.
+- These practices align with CPT’s emphasis on testing and debugging throughout development.
+
+
+### How This Project Meets CPT Requirements  
+
+| Requirement              | Implementation                            |
+|-------------------------|-----------------------------------------|
+| **Data Collection**      | Stores section data in an SQL database |
+| **Procedural Abstraction** | Uses functions like `get_sections()` to handle data retrieval |
+| **Algorithm Implementation** | Implements authentication using JWT tokens |
+
+
+
+
+## Full Stack Connection to AP CSP Big Idea 4:
 In AP Computer Science Principles (CSP), Big Idea 4 focuses on the importance of the internet and networking in computing systems. Understanding the layers of the networking stack is essential for students to comprehend how data moves across the internet, from end-users (clients) to servers, and how systems communicate in a distributed environment. This blog provides a practical understanding of these layers in a real-world scenario, highlighting the importance of secure and efficient data transmission in web development.
+
+### **Big Idea 4: Computer Systems and Networks**
+- This project showcases how HTTP, TCP, and IP protocols enable communication between the frontend and backend.
+- The networking stack ensures secure and efficient data transfer.
+- Hosting the backend on AWS EC2 demonstrates cloud computing concepts.
+
 
 ## 1. HTTP/DNS (Application Layer)
 
