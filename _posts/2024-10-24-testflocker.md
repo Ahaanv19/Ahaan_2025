@@ -6,6 +6,18 @@ toc: true
 comments: true
 ---
 
+</table>
+<p1 style="font-size:70%; color: purple; font: bold 14px Open Sans;"> Final Exam Review Blogs Linked Here.  &#128513;</p1>
+<table>
+    <tr>
+        <td><img src="{{site.baseurl}}/images/notebook.png" height="60" title="Home" alt=""></td>
+        <td><a href="{{site.baseurl}}/retrospective/">Personal Retrospective</a></td>
+        <td><a href="{{site.baseurl}}/stack/">Performance Task Demo Video</a></td>
+        <td><a href="{{site.baseurl}}/mcq/">MCQ Blog</a></td>   
+    </tr>
+
+</table>
+
 # Personal Full Stack Feature: College Board Performance Task Blog
 
 ## Introduction
