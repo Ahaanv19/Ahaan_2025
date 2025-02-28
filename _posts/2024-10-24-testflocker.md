@@ -12,8 +12,10 @@ comments: true
     <tr>
         <td><img src="{{site.baseurl}}/images/notebook.png" height="60" title="Home" alt=""></td>
         <td><a href="{{site.baseurl}}/retrospective/">Personal Retrospective</a></td>
-        <td><a href="{{site.baseurl}}/stack/">Performance Task Demo Video</a></td>
+        <td><a href="{{site.baseurl}}/exam/">Final Exam Homepage</a></td>
+        <td><a href="{{site.baseurl}}/dm/">Performance Task Demo Video & N@tM</a></td>
         <td><a href="{{site.baseurl}}/mcq/">MCQ Blog</a></td>   
+        <td><a href="{{site.baseurl}}/BI/">Personal Feature Blog</a></td> 
     </tr>
 
 </table>
