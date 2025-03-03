@@ -127,11 +127,22 @@ To summarize my retrospective:
 
 | **Category**                  | **Self-Assessment**  | **Reasoning**  |
 |--------------------------------|----------------------|----------------|
-| Five things done over 12 weeks  | 5/5 | 5 detailed things done over the 12 weeks clearly laid out, plus bonus accomplishments highlighted. All things have their own burn down list and completion status |
+| Five things done over 12 weeks  | 5/5 | 5 detailed things done over the 12 weeks clearly laid out, plus bonus accomplishments highlighted. All things have their own burn down list and completion status. 
+Genre Table Database Full Stack(User can add recommended Genres): Demonstrate all CRUD operations for this database, reloading the page to prove data is being saved onto the table, showing on the cockpit as well for reference.
+
+Big Idea 4 Personal Blog, explaining Big Idea 4 relations to our project, my features connections to CPT requirements, and other Big Ideas.]
+
+Moderator Picks show the Moderator Pick Page, backend chat, frontend pages with UI design, and connections between all pages in the Moderator Pick environment.
+
+
+Library Backend Page( Allows users to view any local libraries, and can add the recommendations of their favorite Libraries. Uses Backend, and CRUD operations.
+
+
+Dewy Volunteer Interest Users can volunteer their interest that they would like to take part in a nationwide effort to improve the Dewy Decimal System and allow finding books in libraries to be much easier. Demonstrate CRUD operations and backend connectivity. |
 |Full Stack Project Demo | 1.5/2 | Project demonstartes fully functioning full stack abilites, that meet CPT requirments with N@tM feedback. Can do with a more defeined purpose.  |
 | Project Feature Blog Writeup | 1/1 | Project feature has a fully thought out personal blog which describes how the feature makes CPT requirments and the college board big ideas, in FRQ language. |
-| MCQ  | 1/1 | MCQ fully complete to the best ability possible, and personal room of improvment highlighted. |
-| 10th point (Retrospective) | 1/1 | Clear roadmap for improvement and career growth. |
+| MCQ  | 1/1 | MCQ fully complete to the best ability possible, and personal room of improvment highlighted. Created a Blog to highlight room of improvment.|
+| 10th point (Retrospective) | 1/1 | Clear roadmap for improvement and career growth. Have created a well thoughout blog that highlights areas of improvment that I can wok on, as well as my personal achivements this trimester. I also discussed my personal journey in Computer Science, and what my career goals are in relations to computer science. My blog discusses my career choice in comouter science, a video game designer.|
 
 ## **Conclusion**
 This retrospective has been an eye-opening exercise in self-evaluation and forward-thinking. While I’m proud of my progress, I recognize that continuous learning is key to success in the field of computer science. By refining my technical skills, engaging in collaborative projects, and setting clear goals, I am confident in my ability to grow as a developer and make meaningful contributions to the field.
