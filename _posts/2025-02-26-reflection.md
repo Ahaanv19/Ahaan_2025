@@ -127,18 +127,7 @@ To summarize my retrospective:
 
 | **Category**                  | **Self-Assessment**  | **Reasoning**  |
 |--------------------------------|----------------------|----------------|
-| Five things done over 12 weeks  | 5/5 | 5 detailed things done over the 12 weeks clearly laid out, plus bonus accomplishments highlighted. All things have their own burn down list and completion status. 
-Genre Table Database Full Stack(User can add recommended Genres): Demonstrate all CRUD operations for this database, reloading the page to prove data is being saved onto the table, showing on the cockpit as well for reference.
-
-Big Idea 4 Personal Blog, explaining Big Idea 4 relations to our project, my features connections to CPT requirements, and other Big Ideas.]
-
-Moderator Picks show the Moderator Pick Page, backend chat, frontend pages with UI design, and connections between all pages in the Moderator Pick environment.
-
-
-Library Backend Page( Allows users to view any local libraries, and can add the recommendations of their favorite Libraries. Uses Backend, and CRUD operations.
-
-
-Dewy Volunteer Interest Users can volunteer their interest that they would like to take part in a nationwide effort to improve the Dewy Decimal System and allow finding books in libraries to be much easier. Demonstrate CRUD operations and backend connectivity. |
+| Five things done over 12 weeks  | 5/5 | 5 detailed things done over the 12 weeks clearly laid out, plus bonus accomplishments highlighted. All things have their own burn down list and completion status. (Bullet 1) Genre Table Database Full Stack(User can add recommended Genres): Demonstrate all CRUD operations for this database, reloading the page to prove data is being saved onto the table, showing on the cockpit as well for reference. (Bullet 2) Big Idea 4 Personal Blog, explaining Big Idea 4 relations to our project, my features connections to CPT requirements, and other Big Ideas. (Bullet 3) Moderator Picks show the Moderator Pick Page, backend chat, frontend pages with UI design, and connections between all pages in the Moderator Pick environment. (Bullet 4) Library Backend Page( Allows users to view any local libraries, and can add the recommendations of their favorite Libraries. Uses Backend, and CRUD operations. (Bullet 5) Dewy Volunteer Interest Users can volunteer their interest that they would like to take part in a nationwide effort to improve the Dewy Decimal System and allow finding books in libraries to be much easier. Demonstrate CRUD operations and backend connectivity. |
 |Full Stack Project Demo | 1.5/2 | Project demonstartes fully functioning full stack abilites, that meet CPT requirments with N@tM feedback. Can do with a more defeined purpose.  |
 | Project Feature Blog Writeup | 1/1 | Project feature has a fully thought out personal blog which describes how the feature makes CPT requirments and the college board big ideas, in FRQ language. |
 | MCQ  | 1/1 | MCQ fully complete to the best ability possible, and personal room of improvment highlighted. Created a Blog to highlight room of improvment.|
