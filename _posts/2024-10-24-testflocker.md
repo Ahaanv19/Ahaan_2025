@@ -51,7 +51,7 @@ def get_sections():
 
 #### **Example: Dynamic JavaScript Table Rendering**
 ```javascript
-fetch("https://api.example.com/sections")
+fetch("https://litconnect.stu.nighthawkcodingsociety.com//sections")
     .then(response => response.json())
     .then(data => {
         const tableBody = document.getElementById("sectionsTable");
@@ -140,6 +140,112 @@ def login():
 | **Data Collection**      | Stores section data in an SQL database |
 | **Procedural Abstraction** | Uses functions like `get_sections()` to handle data retrieval |
 | **Algorithm Implementation** | Implements authentication using JWT tokens |
+
+
+## How My Feature Meets CPT Requirements
+
+### **1. Instructions for Input**
+My project allows user input through an interactive web interface. Users can:
+- Add, edit, and delete genres dynamically using buttons in the frontend.
+- Submit HTTP requests via JavaScript `fetch()` to interact with the backend API.
+- The Flask API processes user input and modifies the SQL database accordingly.
+
+#### **Example: Handling User Input in JavaScript**
+```javascript
+function addSection() {
+    const name = document.getElementById("sectionName").value;
+    fetch("https://api.example.com/sections", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ name: name })
+    })
+    .then(response => response.json())
+    .then(data => console.log("Added section:", data))
+    .catch(error => console.error("Error:", error));
+}
+```
+
+### **2. Use of Lists or Collections**
+The project uses a database table to manage genres. Data is stored and retrieved using SQL queries and represented as a JSON collection in the backend.
+
+#### **Example: Retrieving Data from SQL and Converting to JSON**
+```python
+@app.route("/sections", methods=["GET"])
+def get_sections():
+    sections = Section.query.all()
+    return jsonify([{ "id": sec.id, "name": sec.name, "theme": sec.theme } for sec in sections])
+```
+
+### **3. Custom Procedure with Parameters**
+A key procedure in my backend is `get_sections()`, which retrieves genre data. It demonstrates abstraction by handling SQL queries and formatting responses.
+
+#### **Example: Defining and Using a Procedure in Python**
+```python
+def get_sections_data():
+    return Section.query.all()
+
+@app.route("/sections", methods=["GET"])
+def get_sections():
+    sections = get_sections_data()
+    return jsonify([{ "id": sec.id, "name": sec.name, "theme": sec.theme } for sec in sections])
+```
+
+### **4. Algorithm with Sequencing, Selection, and Iteration**
+The program includes algorithms that:
+- Sequence: Execute SQL queries and return JSON responses.
+- Selection: Use conditional logic to handle user authentication.
+- Iteration: Loop through database records to generate API responses.
+
+#### **Example: Using Conditional Logic in User Authentication**
+```python
+@app.route("/login", methods=["POST"])
+def login():
+    username = request.json.get("username")
+    password = request.json.get("password")
+    if username == "admin" and password == "password123":
+        access_token = create_access_token(identity=username)
+        return jsonify(access_token=access_token)
+    return jsonify({"error": "Invalid credentials"}), 401
+```
+
+### **5. Calls to Student-Developed Procedure**
+The frontend calls backend functions via API requests, which then execute the student-developed procedures.
+
+#### **Example: Fetching Sections from the Backend**
+```javascript
+fetch("https://api.example.com/sections")
+    .then(response => response.json())
+    .then(data => console.log(data))
+    .catch(error => console.error("Error:", error));
+```
+
+### **6. Output Based on Input and Functionality**
+The project provides textual and visual output through:
+- Console logs for debugging.
+- Dynamic table updates displaying stored data.
+- JSON responses from the API.
+
+#### **Example: Displaying API Data in a Table**
+```javascript
+function displaySections(data) {
+    const tableBody = document.getElementById("sectionsTable");
+    tableBody.innerHTML = "";
+    data.forEach(section => {
+        const row = `<tr>
+            <td>${section.id}</td>
+            <td>${section.name}</td>
+            <td>${section.theme || ''}</td>
+            <td>
+                <button onclick="editSection(${section.id}, '${section.name}', '${section.theme || ''}')">Edit</button>
+                <button onclick="deleteSection(${section.id})">Delete</button>
+            </td>
+        </tr>`;
+        tableBody.innerHTML += row;
+    });
+}
+```
+
+This detailed breakdown demonstrates how my feature aligns with the College Board’s CPT requirements while integrating fundamental computing principles from AP CSP.
 
 
 
