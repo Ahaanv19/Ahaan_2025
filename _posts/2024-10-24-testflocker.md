@@ -20,7 +20,7 @@ comments: true
 
 </table>
 
-  <a href="https://github.com/Ahaanv19/LitConnect/issues/10" class="button-link">Feedback</a>
+  <a href="{{site.baseurl}}/ppr/">Personal Project Reference</a>
 
 
 
