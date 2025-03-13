@@ -20,7 +20,7 @@ comments: true
 
 </table>
 
-  <a href="{{site.baseurl}}/ppr/">Personal Project Reference</a>
+  <a href="{{site.baseurl}}/ppr/">Link to Access Personal Project Reference</a>
 
 
 
