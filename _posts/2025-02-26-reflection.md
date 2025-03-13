@@ -139,3 +139,12 @@ This retrospective has been an eye-opening exercise in self-evaluation and forwa
 ---
 
 _This retrospective serves as a benchmark for my journey in computer science, highlighting achievements, challenges, and aspirations for the future._ 🚀
+
+
+<script src="https://utteranc.es/client.js"
+        repo="Ahaanv19/Ahaan_2025"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
