@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Personal Highlights and Retrospective 
+title: Personal Highlights, Retrospective, Studyguide 
 permalink: /retrospective/
 toc: true
 comments: true
@@ -184,3 +184,165 @@ Through full stack integration, interactive tools, visual refinement, and cross-
 Night at the Museum feedback reaffirmed the impact of my work—users enjoyed the interactivity and clarity, while encouraging me to keep pushing for creativity and user engagement.
 
 I leave this module with a stronger foundation in web technologies, collaborative design, and full stack communication—skills that I will continue building as I progress toward more advanced development projects.
+
+
+---
+
+## AP CSA MCQ Study Guide and Reflection
+
+
+<h1 style="font-size:300%; color: red; font: bold 21px Arial, sans-serif;"> Using Objects and Methods (50%) </h1>
+
+<div class="section">         
+<h2>Performance</h2>         
+<p>In this section, I scored 50%. I have a general understanding of using objects and calling methods, but I struggled with correctly applying object-oriented concepts in some questions, especially when it came to understanding how parameters and return values work within methods.</p>     
+</div>
+
+<div class="section">         
+<h2>Example Mistakes</h2>         
+<ul>             
+<li><strong>Mistake 1:</strong> I confused how instance variables are accessed through methods and mixed up object references in one of the questions.</li>             
+<li><strong>Mistake 2:</strong> I didn’t fully understand the difference between static and instance methods, which led to selecting the wrong answer.</li>         
+</ul>     
+</div>
+
+<div class="section">         
+<h2>Solutions to Improve</h2>         
+<ul class="solution-list">             
+<li><strong>AP Classroom Daily Video:</strong> I will rewatch the Unit 1 and 2 videos on object-oriented programming and method calls to strengthen my foundation.</li>             
+<li><strong>Practice Coding:</strong> I’ll code small examples that use constructors, accessors, and mutators to get more familiar with how objects interact.</li>         
+</ul>     
+</div>
+
+---
+
+<h1 style="font-size:300%; color: red; font: bold 21px Arial, sans-serif;"> Selection and Iteration (46%) </h1>
+
+<div class="section">         
+<h2>Performance</h2>         
+<p>I scored 46% in this area, showing that I struggled with multi-way selection and loop control structures. I sometimes misread conditions and didn’t correctly predict loop outputs, especially when nested or combined with complex Boolean logic.</p>     
+</div>
+
+<div class="section">         
+<h2>Example Mistakes</h2>         
+<ul>             
+<li><strong>Mistake 1:</strong> I miscalculated how many times a for loop would execute because I overlooked the loop increment step.</li>             
+<li><strong>Mistake 2:</strong> I misunderstood the difference between while and for loops when determining loop termination conditions.</li>         
+</ul>     
+</div>
+
+<div class="section">         
+<h2>Solutions to Improve</h2>         
+<ul class="solution-list">             
+<li><strong>AP Classroom Practice:</strong> I’ll complete additional practice problems focused on nested loops and multi-way if statements to gain better fluency.</li>             
+<li><strong>Debugging Practice:</strong> I will trace code line by line in Replit or BlueJ to visually understand loop behavior and control flow.</li>         
+</ul>     
+</div>
+
+---
+
+<h1 style="font-size:300%; color: red; font: bold 21px Arial, sans-serif;"> Class Creation (43%) </h1>
+
+<div class="section">         
+<h2>Performance</h2>         
+<p>This was one of my weakest areas with 43%. I understand the basics of writing classes but struggled with class design, private variables, and writing constructors correctly. I also had difficulty determining how classes interact when one class creates or calls methods from another.</p>     
+</div>
+
+<div class="section">         
+<h2>Example Mistakes</h2>         
+<ul>             
+<li><strong>Mistake 1:</strong> I mixed up access modifiers and did not know when to use private versus public fields properly.</li>             
+<li><strong>Mistake 2:</strong> I forgot to initialize some instance variables in a constructor, causing logical errors in my understanding.</li>         
+</ul>     
+</div>
+
+<div class="section">         
+<h2>Solutions to Improve</h2>         
+<ul class="solution-list">             
+<li><strong>AP Classroom Daily Video:</strong> I’ll review videos from Unit 3 on class design and object instantiation to reinforce these ideas.</li>             
+<li><strong>Hands-on Practice:</strong> I will create small Java classes in Replit that use constructors, fields, and methods to apply my learning practically.</li>         
+</ul>     
+</div>
+
+---
+
+<h1 style="font-size:300%; color: green; font: bold 21px Arial, sans-serif;"> Data Collections (75%) </h1>
+
+<div class="section">         
+<h2>Performance</h2>         
+<p>This was my strongest area with 75%. I did well identifying how data structures like arrays and ArrayLists store and modify elements. I was able to trace code correctly for most questions involving iteration and data manipulation. However, I occasionally struggled with 2D array logic and indexing.</p>     
+</div>
+
+<div class="section">         
+<h2>Example Mistakes</h2>         
+<ul>             
+<li><strong>Mistake 1:</strong> I occasionally misread how ArrayLists are updated with <code>set()</code> versus <code>add()</code> methods.</li>             
+<li><strong>Mistake 2:</strong> I didn’t fully understand how nested loops interact with 2D arrays in one question, which led to an incorrect answer.</li>         
+</ul>     
+</div>
+
+<div class="section">         
+<h2>Solutions to Improve</h2>         
+<ul class="solution-list">             
+<li><strong>Extra Practice:</strong> I’ll practice AP Classroom and CodingBat problems focusing on array and ArrayList manipulation to ensure I’m confident with these data structures.</li>             
+<li><strong>Visual Learning:</strong> I’ll use online Java visualizers to see how arrays and ArrayLists change during loops, which will improve my code tracing accuracy.</li>         
+</ul>     
+</div>
+
+---
+
+<h1 style="font-size:300%; color: blue; font: bold 21px Arial, sans-serif;"> Overall Reflection & Study Guide </h1>
+
+<div class="section">         
+<h2>Overall Performance</h2>         
+<p>Across all topics, I achieved a <strong>62% overall average</strong> on my AP CSA Practice Exam 1. My results show steady understanding of data structures but highlight a need to improve in fundamental object-oriented programming (OOP) areas like method calling, class design, and logical control flow.</p>
+<p>Most of my mistakes came from misreading code logic or small syntax misunderstandings, not from a lack of concept knowledge. This means I need more consistent coding practice and repetition to improve accuracy and speed under timed conditions.</p>     
+</div>
+
+<div class="section">         
+<h2>Study Guide Plan for Improvement</h2>         
+<ul>             
+<li><strong>1. Weekly Topic Review Schedule:</strong>  
+<ul>
+<li><em>Monday – Objects and Methods:</em> Review constructors, parameter passing, and method overloading using AP Classroom Unit 2 videos.</li>
+<li><em>Tuesday – Selection & Iteration:</em> Write small programs using nested if statements and for/while loops. Trace manually and test outputs.</li>
+<li><em>Wednesday – Class Design:</em> Rebuild simple class hierarchies like “Pet,” “Book,” or “Shoe” to reinforce field/method organization.</li>
+<li><em>Thursday – Arrays & ArrayLists:</em> Complete CodingBat exercises and AP problems on traversal, insertion, and removal.</li>
+<li><em>Friday – Recursion & Data Collections:</em> Practice identifying recursive base cases and tracing recursive method calls.</li>
+</ul>
+</li>             
+
+<li><strong>2. Practice Tools:</strong>  
+<ul>
+<li><a href="https://apclassroom.collegeboard.org">AP Classroom</a> – Rewatch targeted Daily Videos and do Topic Question sets from Units 1–5.</li>
+<li><a href="https://codingbat.com/java">CodingBat Java</a> – Reinforce array, loop, and string manipulation logic through repetitive short coding tasks.</li>
+<li><a href="https://replit.com">Replit</a> – Write and debug my own Java code weekly to see real-time compiler and logic feedback.</li>
+</ul>
+</li>
+
+<li><strong>3. Study Strategy:</strong>  
+<ul>
+<li>Focus on understanding <strong>why</strong> an answer is correct, not just memorizing syntax.</li>
+<li>Use <strong>code tracing</strong> for every question I get wrong — follow variable changes step by step to learn from errors.</li>
+<li>Build a <strong>personal error log</strong> to record mistakes and review patterns weekly.</li>
+<li>Schedule one mini “mock quiz” every weekend to track progress and simulate timed exam conditions.</li>
+</ul>
+</li>
+
+<li><strong>4. Long-Term Goals:</strong>  
+<ul>
+<li>Increase overall MCQ performance from 62% → 80% by Tri 3.</li>
+<li>Master OOP concepts and confidently design multi-class programs without syntax guidance.</li>
+<li>Be able to trace and debug 2D arrays and ArrayLists with nested loops accurately.</li>
+</ul>
+</li>
+</ul>     
+</div>
+
+<div class="section">
+<h2>Final Thoughts</h2>
+<p>This reflection helped me pinpoint where my understanding is strong and where I need more practice. By focusing on OOP fundamentals, structured code tracing, and consistent weekly reviews, I’m confident that I can raise my AP CSA performance in Trimester 3 and feel fully prepared for the AP Exam in May.</p>
+</div>
+
+---
+
