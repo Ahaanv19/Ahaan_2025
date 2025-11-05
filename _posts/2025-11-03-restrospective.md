@@ -208,6 +208,9 @@ I leave this module with a stronger foundation in web technologies, collaborativ
 </ul>     
 </div>
 
+<td><img src="{{site.baseurl}}/images/eleven.png" height="350" title="Home" alt=""></td>
+<td><img src="{{site.baseurl}}/images/nini.png" height="350" title="Home" alt=""></td>
+
 <div class="section">         
 <h2>Solutions to Improve</h2>         
 <ul class="solution-list">             
@@ -232,6 +235,10 @@ I leave this module with a stronger foundation in web technologies, collaborativ
 <li><strong>Mistake 2:</strong> I misunderstood the difference between while and for loops when determining loop termination conditions.</li>         
 </ul>     
 </div>
+
+<td><img src="{{site.baseurl}}/images/Screenshot 2025-11-05 at 1.27.47 PM.png" height="350" title="Home" alt=""></td>
+<td><img src="{{site.baseurl}}/images/Screenshot 2025-11-05 at 1.27.57 PM.png" height="350" title="Home" alt=""></td>
+
 
 <div class="section">         
 <h2>Solutions to Improve</h2>         
@@ -258,6 +265,10 @@ I leave this module with a stronger foundation in web technologies, collaborativ
 </ul>     
 </div>
 
+<td><img src="{{site.baseurl}}/images/Screenshot 2025-11-05 at 1.31.02 PM.png" height="350" title="Home" alt=""></td>
+<td><img src="{{site.baseurl}}/images/Screenshot 2025-11-05 at 1.30.41 PM.png" height="350" title="Home" alt=""></td>
+
+
 <div class="section">         
 <h2>Solutions to Improve</h2>         
 <ul class="solution-list">             
@@ -282,6 +293,10 @@ I leave this module with a stronger foundation in web technologies, collaborativ
 <li><strong>Mistake 2:</strong> I didn’t fully understand how nested loops interact with 2D arrays in one question, which led to an incorrect answer.</li>         
 </ul>     
 </div>
+
+<td><img src="{{site.baseurl}}/images/Screenshot 2025-11-05 at 1.32.39 PM.png" height="350" title="Home" alt=""></td>
+<td><img src="{{site.baseurl}}/images/Screenshot 2025-11-05 at 1.32.33 PM.png" height="350" title="Home" alt=""></td>
+
 
 <div class="section">         
 <h2>Solutions to Improve</h2>         
