@@ -190,6 +190,8 @@ I leave this module with a stronger foundation in web technologies, collaborativ
 
 ## AP CSA MCQ Study Guide and Reflection
 
+<td><img src="{{site.baseurl}}/images/score.png" height="350" title="Home" alt=""></td>
+
 
 <h1 style="font-size:300%; color: red; font: bold 21px Arial, sans-serif;"> Using Objects and Methods (50%) </h1>
 
