@@ -17,7 +17,7 @@ comments: true
 
 ## Proof of Experience
 
-<td><img src="{{site.baseurl}}/images/Screenshot 2026-05-21 at 3.43.58 PM.png" height="350" title="Home" alt=""></td>
+<td><img src="{{site.baseurl}}/images/Screenshot 2026-05-21 at 8.01.17 PM.png" height="350" title="Home" alt=""></td>
 
 **Caption:**  
 Listening to Elijah Johnson, Founder & CEO of SafeBallot, discuss the intersection of civic technology and community leadership in Room A101.
@@ -28,7 +28,7 @@ I initially expected a traditional tech-founder presentation focused heavily on 
 
 ## Curiosity Before Attending
 
-I was incredibly curious about his massive career pivot. Transitioning from being a Division I football player at the University of San Diego to becoming the Founder and CEO of a civic technology platform is a highly unique path. I wanted to know how the discipline and teamwork he learned on the field translated into leading software engineers and managing a countywide philanthropic initiative.
+I was incredibly curious about his massive career pivot. Transitioning from being a Division I football player at the University of San Diego to becoming the Founder and CEO of a civic technology platform is a highly unique path. I wanted to know how the discipline and teamwork he learned on the field translated into leading software engineers and managing a countywide philanthropic initiative. The realtionships you make impact the future you accomplish.
 
 ## What I Saw
 
